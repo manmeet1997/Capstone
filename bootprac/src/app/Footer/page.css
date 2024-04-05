@@ -1,0 +1,11 @@
+.footer {
+    min-width: 10vw;
+    display: flex;
+    flex-direction: row;
+    gap: 9.3vw;
+    padding: 62px;
+    margin-left: 0vw;
+    margin-right: 0vw;
+
+
+}
